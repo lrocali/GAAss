@@ -1,0 +1,12 @@
+Library
+Temp
+Source
+Builds
+obj
+Assets/UnityVS/
+*.csproj
+*.pidb
+*.unityproj
+*.sln
+*.userprefs 
+*.suo
